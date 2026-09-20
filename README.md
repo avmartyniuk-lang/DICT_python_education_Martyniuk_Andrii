@@ -3,3 +3,4 @@ Laboratory work Git
 Master branch change
 Feature branch change
 Conflict line master
+Conflict line feature
